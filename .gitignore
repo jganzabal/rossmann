@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+__MACOSX/
+*.csv
+dataset/
